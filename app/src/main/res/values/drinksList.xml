@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drinks">
+        <item>Monster_Energy</item>
+        <item>Tornado_Energy</item>
+        <item>Burn</item>
+        <item>Red_Bull</item>
+        <item>Flash_UP</item>
+        <item>E-ON black power</item>
+    </string-array>
+</resources>
