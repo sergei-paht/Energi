@@ -19,11 +19,12 @@
         android:textSize="20sp" />
 
     <ListView
+        android:id="@+id/countriesList"
         android:layout_marginTop="20dp"
         android:layout_below="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:backgroundTint="@color/white"
+        android:background="@color/white"
         />
 
 </RelativeLayout>
