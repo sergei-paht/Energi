@@ -12,15 +12,15 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Прила для просмотра энергосов"
+        android:text="@string/titleApp"
         android:layout_centerHorizontal="true"
-        android:textColor="#FFFFFF"
-        android:layout_marginTop="20dp"
-        android:textSize="20sp" />
+        android:textColor="@color/colorTitleTextApp"
+        android:layout_marginTop="@dimen/sizeTitle"
+        android:textSize="@dimen/sizeTextTitle" />
 
     <ListView
         android:id="@+id/countriesList"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="@dimen/distanceToTitle"
         android:layout_below="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

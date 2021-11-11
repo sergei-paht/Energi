@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Energy</string>
+    <string name="titleApp">Прила для просмотра энергосов</string>
 </resources>
